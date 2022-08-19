@@ -1,0 +1,10 @@
+*.joblib
+*.bin
+*.csv 
+*.xlsx
+*.bz2
+*.tar*
+*wandb*
+*pt
+*__pycache__/
+*ipynb
